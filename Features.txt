@@ -1,0 +1,26 @@
+FACEBOOK
+-Account Generator
+-Multi Bot
+
+MESSENGER
+-Multi Bot
+-Message Spammer
+
+INSTAGRAM
+-Account Generator
+-Multi Bot
+-Message Spammer
+-Followers
+-Likes
+-Views
+-Comments
+
+TELEGRAM
+-Account Generator
+-Multi Bot
+-Message Spammer
+
+WHATSAPP
+-Multi Bot
+-Message Spammer
+-Account Info Lookup
