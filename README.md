@@ -1,13 +1,13 @@
 ## Features  
-#### FACEBOOK  
+#### FACEBOOK
 •Account Generator  
 •Multi Bot  
 
-#### MESSENGER  
+#### MESSENGER
 •Multi Bot  
 •Message Spammer  
 
-#### INSTAGRAM  
+#### INSTAGRAM
 •Account Generator  
 •Multi Bot  
 •Message Spammer  
@@ -16,12 +16,12 @@
 •Views  
 •Comments  
 
-#### TELEGRAM  
+#### TELEGRAM
 •Account Generator  
 •Multi Bot  
 •Message Spammer  
 
-#### WHATSAPP  
+#### WHATSAPP
 •Multi Bot  
 •Message Spammer  
 •Account Info Lookup  
